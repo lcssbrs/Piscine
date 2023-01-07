@@ -11,7 +11,7 @@ void	ft_print_alphabet(void)
 	}	
 }
 
-int	main()
+int	main(void)
 {
 	ft_print_alphabet();
 	write (1, "\n", 1);
